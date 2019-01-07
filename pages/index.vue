@@ -21,7 +21,6 @@
           </ul>
         </div>
       </nav>
-
       
       <section class="sec sec-list" :data-type="`${DATA_TYPE}`">
         <div class="inner">
